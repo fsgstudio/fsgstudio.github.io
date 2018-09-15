@@ -14,12 +14,12 @@ sitemap:
 没什么门面，姑且放在这落落灰。
 
 ### 联系我们
-<div class="box">
-  <p>
+
 > 电子邮件：frankherbertwoo@gmail.com
 > QQ群：579156092
 > 微博：FrankHerbertWoo
 > 酷安：何处繁华笙歌莫
-  </p>
-</div>
+
+
+
 ###### 欢迎大佬们来撩撩骚
