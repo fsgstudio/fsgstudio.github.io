@@ -1,60 +1,37 @@
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
+## 关于这个 [ 网站 ](https://frankherbertwoo.github.io) (Simplified Chinese)
 
-Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively-src/archive/master.zip) and save it to any folder you want.
+---
 
-Open a terminal window or a command line and ```cd``` to that location.
+##### 一、网站功能、计划、功能类型：
+> 短期内用于前端学习。
+> 长期用于打造初期工作室形象，宣传作品以及资源共享服务。
 
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
+##### 二、网站技术解决方案
+> 1、采用GitHub Pages+Jekyll技术搭建的基于博客页面的作品宣传及资源共享下载网站
 
-## Features
-### Auto-Generating Sitemap
-The sitemap is auto generated! Just simply change the sitemap variable in front matter of each page. It looks like so...
-```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
-```
+##### 三、网站内容及实现方式
+> 1、网站内容包括 **工作室简介**、**近期动态**、**作品下载**、**联系方式**等内容。
+> 2、网站内容的实现方式为静态页面。
+##### 五、网页设计
+> 1、网页设计元素为质感设计。
+> 3、网页改版计划：每半年到一年进行一次大规模改版。
 
-### Formspring.io Integration
-Formspring is supported out of the box! Just add your email to ```_config.yml```
+___
 
+## About this [ Website ] (https://frankherbertwoo.github.io) (English)
 
-## Credits
-### Original README from HTML5 UP
-```
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+---
 
+##### I. Website function, plan, function type:
+> For short-term learning.
+> Long-term use to create an initial studio image, promotional work and resource sharing services.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+##### II. Website Technology Solutions
+> 1. GitHub Pages+Jekyll technology-based blog page-based work promotion and resource sharing download site
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (skel.io)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-```
+##### III. Website content and implementation
+> 1, the website content includes ** studio introduction **, ** recent development **, ** works download **, ** contact ** and so on.
+> 2, the implementation of the site content is a static page.
+##### V. Web Design
+> 1. The web design element is the material design.
+> 3. Webpage revision plan: A large-scale revision is carried out every six months to one year.
