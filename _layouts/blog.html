@@ -53,7 +53,14 @@
 							</p>
             </header>
 						<p>
-							<a href="https://www.apkmirror.com/apk/max-lv/shadowsocks/shadowsocks-4-6-0-release/shadowsocks-4-6-0-3-android-apk-download/download/">影梭 4.6 beta</a>
+							<a href="/app/ssr.apk">影梭R</a>
+							<a href="/app/apkpure.apk">Apkpure</a>
+							<a href="/app/code">Code</a>
+							<a href="/app/codeime.apk">代码输入法</a>
+							<a href="/app/cpuz.apk">CPU-Z</a>
+							<a href="/app/dcoder.apk">Dcoder</a>
+							<a href="/app/pe.apk">PhotoEditor</a>
+							<a href="/app/turbo.apk">TurboVPN</a>
 						<p>
 						</p>
 							想要的自己下，服务器自己找
@@ -61,31 +68,7 @@
 
           </article>
 					<!-- Post -->
-					<section class="posts">
-						{% for post in site.posts %}
-						{% assign mod3 = forloop.index | modulo: 3 %}
-							<article>
-								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-								</header>
-								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
-								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
-								</ul>
-							</article>
-							{% if mod3 == 0 %}
-							<article>
-								<header>
-									<h2><a href="#">Sponsored</a></h2>
-								</header>
-
-							</article>
-							{% endif %}
-						{% endfor %}
-
-					</section>
+					
 
 					</div>
 
