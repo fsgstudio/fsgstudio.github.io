@@ -35,15 +35,14 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+twitter:            FrankHerbertWoo
+reddit:           FrankherbertWoo
+weibo:          FrankHerbertWoo
+github:             FrankHerbertWoo
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           China
+email:              frankherbertwoo@gmail.com
 
 # Gems
 gems:
