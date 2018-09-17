@@ -27,11 +27,11 @@ ___
 > Long-term use to create an initial studio image, promotional work and resource sharing services.
 
 ##### II. Website Technology Solutions
-> 1. GitHub Pages+Jekyll technology-based blog page-based work promotion and resource sharing download site
+> 1,GitHub Pages+Jekyll technology-based blog page-based work promotion and resource sharing download site
 
 ##### III. Website content and implementation
-> 1, the website content includes ** studio introduction **, ** recent development **, ** works download **, ** contact ** and so on.<br/>
-> 2, the implementation of the site content is a static page.
+> 1,The website content includes **studio introduction**, **recent development**, **works download**, **contact** and so on.<br/>
+> 2,The implementation of the site content is a static page.
 ##### V. Web Design
-> 1. The web design element is the material design.<br/>
-> 3. Webpage revision plan: A large-scale revision is carried out every six months to one year.
+> 1,The web design element is the material design.<br/>
+> 2,Webpage revision plan: A large-scale revision is carried out every six months to one year.
