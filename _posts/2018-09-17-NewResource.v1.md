@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Welcome to Massively: The Jekyll Theme!"
-date:   2017-10-31
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+title:  "New resource"
+date:   2018-09-17
+excerpt: "碟中谍6韩版高清，曼蒂（尼古拉斯凯奇翻身作）。。。"
 image: "/images/pic02.jpg"
 ---
 
-## How to Use This Theme
-Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
-
+## 最新资源速递
+[碟中谍6](https://pan.baidu.com/s/)
 Download this repository [here](https://github.com/iwiedenm/jekyll-theme-massively) and save it to any folder you want.
 
 Open a terminal window or a command line and ```cd``` to that location.
