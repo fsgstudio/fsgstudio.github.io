@@ -1,6 +1,6 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">主页</a></li>
-  <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">下载</a></li>
+  <li class="{% if page.url contains '/download/' %} active {% endif %}"><a href="{{ "/download/" | absolute_url }}">下载</a></li>
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">动态</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">关于</a></li>
 </ul>
