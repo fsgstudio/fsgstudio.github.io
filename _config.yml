@@ -3,7 +3,7 @@ title:              FIRMAMENT
 bio:                'Firmament Software & Games Studio'
 description:        "Firmament Software & Games Studio"
 locale:             en_US
-baseurl: "/news" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 defaults:
