@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Firmament S&G Studio - About
+title: Firmament Software & Games Studio - About
 description: About us.
 sitemap:
     priority: 0.7
