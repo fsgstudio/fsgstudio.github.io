@@ -12,9 +12,8 @@ sitemap:
 <span class="image left"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span>
 
 
-没什么门面，姑且放在这落落灰。
 
-### 联系我们
+### <br>联系我们
 
 > <br>电子邮件：frankherbertwoo@gmail.com 
 > <br>QQ群：579156092 
