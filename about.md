@@ -9,11 +9,9 @@ sitemap:
 ---
 ## 关于我们
 
-<span class="image left"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span>
-<br>
 
 
-### <br>联系我们
+### 联系我们
 
 > <br>电子邮件：frankherbertwoo@gmail.com 
 > <br>QQ群：579156092 
@@ -23,3 +21,4 @@ sitemap:
 
 
 ###### 欢迎大佬们来撩撩骚
+<span class="image center"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span>
