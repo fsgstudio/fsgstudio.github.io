@@ -9,7 +9,8 @@ sitemap:
 ---
 ## 关于我们
 
-<span class="image left"><img src="{{ "/images/about.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span>
+
 
 没什么门面，姑且放在这落落灰。
 
