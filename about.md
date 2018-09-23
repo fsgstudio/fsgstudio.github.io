@@ -20,4 +20,4 @@ sitemap:
 
 
 ###### 欢迎大佬们来撩撩骚
-<span class="image right"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span>
+<!-- <span class="image right"><img src="{{ "/images/logo.png" | absolute_url }}" alt="" /></span> -->
