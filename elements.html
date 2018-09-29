@@ -19,7 +19,30 @@ sitemap:
 <ul class="actions">
 <div style="text-align: center;">
 		<li><a href="#" class="button special" button onclick="alert('下载暂未开放')">下载Demo</a></li>
-		<li><a href="/other.html" class="button">更多下载</a></li>
+		<li><a href="#" class="button">更多下载</a></li>
 		</div>
 	</ul>
-	
+<!--Learning-->
+	<section class="posts">
+						{% for post in site.posts %}
+						{% assign mod3 = forloop.index | modulo: 3 %}
+							<article>
+								<header>
+									<span class="date">{{ post.date | date_to_string }}</span>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+								</header>
+								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								<p>{{ post.excerpt }}</p>
+							</article>
+							{% if mod3 == 0 %}
+							<article>
+								<header>
+									<h2><a href="#">Sponsored</a></h2>
+								</header>
+
+							</article>
+							{% endif %}
+						{% endfor %}
+
+					</section>
+			
