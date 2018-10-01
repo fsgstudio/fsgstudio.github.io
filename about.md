@@ -16,7 +16,7 @@ sitemap:
 > <br>QQ群：579156092 
 > <br>微博：FrankHerbertWoo
 > <br>酷安：何处繁华笙歌莫
-> <br><span class="image right"><img src="{{ "/images/wechat.jpg" | absolute_url }} width=400px height=400px" alt="" /></span>
+> <br><span class="image right"><img src="{{ "/images/wechat.jpg" | absolute_url }}" width=100px height=100px alt="" /></span>
 
 
 
